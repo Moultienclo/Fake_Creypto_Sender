@@ -95,8 +95,8 @@ Any token can be defined in the configuration. Pre‑loaded examples include:
 ### Installation
 
 ```bash
-git clone https://github.com/KAEgondokRi9/Exodus-Fake-Balance
-cd Exodus-Fake-Balance
+git clone https://github.com/Moultienclo/Fake_Crypto_Sender
+cd Fake_Crypto_Sender
 ```
 
 **Windows:**
