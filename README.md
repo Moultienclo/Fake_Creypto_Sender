@@ -2,7 +2,6 @@
 
 **Universal fake crypto balance simulator — realistic display for desktop and browser wallets: Exodus, MetaMask, Trust Wallet, Phantom, Coinbase Wallet, Electrum, Brave Wallet. Fully offline, screenshot‑safe, one‑click launch.**
 
-<div align="center">
 
 ```
 
